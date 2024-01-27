@@ -1,6 +1,8 @@
 # Globalnt
 globant challenge
 
+# My apologize for not being able to use the GCP Free account and use an alternative Mode to develop
+
 The main idea is create and API using Python with Flask and connect a DB (MySQL) and host arquitecture in GCP and Containerize Aplication
 # Read a Manual Globant API to more Info
 
