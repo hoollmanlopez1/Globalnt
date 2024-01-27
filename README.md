@@ -8,6 +8,8 @@ The main idea is create and API using Python with Flask and connect a DB (MySQL)
 
 #Version
 Local rest API created with Python and Flask connected by MySQL DB
+
+
 Python version: python:3.10.13-bookworm
 MySQL: Clever Cloud
 Cloud Environment: GCP
@@ -25,6 +27,7 @@ MYSQL_ADDON_PORT=3306
 MYSQL_ADDON_PASSWORD=90lm3mBFttz2ox0y4fQc
 MYSQL_ADDON_URI=mysql://uqdwfvrv98vouwje:90lm3mBFttz2ox0y4fQc@bnu9w8ewsgbdjpfkxppj-mysql.services.clever-cloud.com:3306/bnu9w8ewsgbdjpfkxppj
 
-GCP
+
+#GCP
 https://console.cloud.google.com/welcome?hl=es&project=globantproject-412416&cloudshell=true
         
