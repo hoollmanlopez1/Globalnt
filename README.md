@@ -1,4 +1,4 @@
-# Globalnt
+# Globant
 globant challenge
 
 # My apologize for not being able to use the GCP Free account and use an alternative Mode to develop
