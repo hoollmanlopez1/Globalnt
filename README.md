@@ -2,8 +2,9 @@
 globant challenge
 
 The main idea is create and API using Python with Flask and connect a DB (MySQL) and host arquitecture in GCP and Containerize Aplication
-# read a Manual Glbant API to more Info
+# Read a Manual Globant API to more Info
 
+#Version
 Local rest API created with Python and Flask connected by MySQL DB
 Python version: python:3.10.13-bookworm
 MySQL: Clever Cloud
@@ -13,7 +14,7 @@ Dockerfile created
 Main.py created
 
 
- Env DB
+#Env DB
 
 MYSQL_ADDON_HOST=bnu9w8ewsgbdjpfkxppj-mysql.services.clever-cloud.com
 MYSQL_ADDON_DB=bnu9w8ewsgbdjpfkxppj
